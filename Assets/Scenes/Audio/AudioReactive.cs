@@ -29,7 +29,7 @@ public class AudioReactive : MonoBehaviour
         for (int i =0; i < numSphere; i++){
             // Random start positions
             float r = 10f;
-            startPosition[i] = new Vector3(r * Random.Range(-1f, 1f), r * Random.Range(-1f, 1f), r * Random.Range(-1f, 1f));        
+            startPosition[i] = new Vector3(-28f, 0f, -17f);
 
             r = 3f; // radius of the circle
             // Circular end position
