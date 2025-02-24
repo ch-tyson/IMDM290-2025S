@@ -1,0 +1,17 @@
+newmtl balloon_194_Mat
+Ni 0.490
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal balloon_194/balloon_194_bumpMap.png
+map_Kd balloon_194/balloon_194_Base_Color.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness balloon_194/balloon_194_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0

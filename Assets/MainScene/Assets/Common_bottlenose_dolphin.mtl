@@ -1,0 +1,17 @@
+newmtl Common_bottlenose_dolphin_MatSG
+Ni 1.6
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal Common_bottlenose_dolphin/Common_bottlenose_dolphin_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness Common_bottlenose_dolphin/Common_bottlenose_dolphin_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+Ns 16
+map_Kd Common_bottlenose_dolphin/Common_bottlenose_dolphin_baseColor.png

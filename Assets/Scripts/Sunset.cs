@@ -20,7 +20,7 @@ public class Sunset : MonoBehaviour
 
         // Apply the color to the skybox material
         skyboxMaterial.SetColor("_SkyTint", currentColor);
-        skyboxMaterial.SetColor("_GroundColor", currentColor);
+        skyboxMaterial.SetColor("_GroundColor", GroundCurrentColor);
 
            /* // Reset time to loop the color change
             if (time >= 1.0f)
