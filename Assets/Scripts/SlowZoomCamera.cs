@@ -3,7 +3,7 @@ using UnityEngine;
 public class SlowZoomCamera : MonoBehaviour
 {
     private Camera mainCamera;
-    public float speed = 0.05f;
+    public float speed = 100f;
     
     // Starting and target positions for smooth interpolation
     public Vector3 startPosition;
@@ -11,7 +11,7 @@ public class SlowZoomCamera : MonoBehaviour
     
     // Interpolation time
     private float currentLerpTime = 0f;
-    public float lerpDuration = 30f;
+    public float lerpDuration = 200f;
 
     void Start()
     {
@@ -24,7 +24,7 @@ public class SlowZoomCamera : MonoBehaviour
 
     void Update()
     {
-        currentLerpTime += Time.deltaTime;
+        currentLerpTime += Time.deltaTime * speed;
         
         // Calculate interpolation value
         float t = currentLerpTime / lerpDuration;

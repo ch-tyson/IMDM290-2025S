@@ -4,7 +4,7 @@ public class LightColorChanger : MonoBehaviour
 {
     public Light lightToChange;  
     public Color startColor = Color.yellow;
-    public Color endColor = Color.purple;
+    public Color endColor = Color.magenta;
     public float duration = 124.0f;    // Duration of song in seconds
 
     private float time = 0.0f;
