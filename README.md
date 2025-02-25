@@ -1,7 +1,5 @@
 # IMDM 290
-### Assignment 1 Tyson Cheung
-![image](https://github.com/user-attachments/assets/f839af3c-e78d-4403-b487-336b887e7f14)
+### Assignment 2 Tyson Cheung and Sydney Grant
 
-
-https://github.com/user-attachments/assets/264bec83-462c-4530-80a1-55e8ec670794
+https://github.com/user-attachments/assets/750e406c-5c56-47bd-8744-c522d7085939
 
